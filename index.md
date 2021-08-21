@@ -39,7 +39,7 @@ Este es el momento en que nos compartas los resultados obtenidos en tu proyecto.
 Puedes insertar imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
 
 ![](CRISPR.jpg)
-![](CRISPR-cas9.png)
+
 O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de utilizar html es que le puedes modificar el tamaño utilizando **width**.
 <img src="Logo_CdeCMx.png" width=200>
 
@@ -56,29 +56,6 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
  
  2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/rmXvlBPq24Q).
  4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
-
-<section class="fdb-block">
-  <div class="container">
-    <div class="row pb-3">
-      <div class="col text-center">
-        <h1>Froala Design Blocks</h1>
-      </div>
-    </div>
-    <div class="row pt-5 justify-content-center align-items-center">
-      <div class="col-3">
-        <img alt="image" class="img-fluid" src="![](pruebadeimagen1.png)>
-      </div>
-      <div class="col-3 offset-1">
-        <img alt="image" class="img-fluid" src="![](pruebadeimagen1.png)">
-      </div>
-      <div class="col-3 offset-1">
-        <img alt="image" class="img-fluid" src="![](pruebadeimagen1.png)">
-      </div>
-    </div>
-  </div>
-</section> 
- 
-
 
  
 ### Equipo
