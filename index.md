@@ -57,6 +57,26 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
  2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/rmXvlBPq24Q).
  4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
 
+<section class="fdb-block">
+  <div class="container">
+    <div class="row pb-3">
+      <div class="col text-center">
+        <h1>Froala Design Blocks</h1>
+      </div>
+    </div>
+    <div class="row pt-5 justify-content-center align-items-center">
+      <div class="col-3">
+        <img alt="image" class="img-fluid" src="./imgs/draws/design-life.svg">
+      </div>
+      <div class="col-3 offset-1">
+        <img alt="image" class="img-fluid" src="./imgs/draws/designer.svg">
+      </div>
+      <div class="col-3 offset-1">
+        <img alt="image" class="img-fluid" src="./imgs/draws/design-community.svg">
+      </div>
+    </div>
+  </div>
+</section> 
  
  
  
