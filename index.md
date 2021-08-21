@@ -66,13 +66,13 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
     </div>
     <div class="row pt-5 justify-content-center align-items-center">
       <div class="col-3">
-        <img alt="image" class="img-fluid" src="![](CRISPR.jpg)>
+        <img alt="image" class="img-fluid" src="![](pruebadeimagen1.png)>
       </div>
       <div class="col-3 offset-1">
-        <img alt="image" class="img-fluid" src="![](CRISPR.jpg)">
+        <img alt="image" class="img-fluid" src="![](pruebadeimagen1.png)">
       </div>
       <div class="col-3 offset-1">
-        <img alt="image" class="img-fluid" src="![](CRISPR.jpg)">
+        <img alt="image" class="img-fluid" src="![](pruebadeimagen1.png)">
       </div>
     </div>
   </div>
